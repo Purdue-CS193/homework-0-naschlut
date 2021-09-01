@@ -3,3 +3,4 @@
 - I am excited to hearing the teacers tell us about what worked for them though early programming courses.
 - I like the memes that are shown in class
 
+
